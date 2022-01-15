@@ -1,2 +1,2 @@
-# actix-web_rest_api
+# ActixAPI
 Actix-Web REST API
